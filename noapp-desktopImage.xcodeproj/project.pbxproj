@@ -13,6 +13,8 @@
 		D0CB2B741A8ABF8500B97CA8 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D0CB2B731A8ABF8500B97CA8 /* Images.xcassets */; };
 		D0CB2B771A8ABF8500B97CA8 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = D0CB2B751A8ABF8500B97CA8 /* LaunchScreen.xib */; };
 		D0CB2B831A8ABF8500B97CA8 /* noapp_desktopImageTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0CB2B821A8ABF8500B97CA8 /* noapp_desktopImageTests.swift */; };
+		D0CB2B8D1A8AC1FD00B97CA8 /* gijon.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D0CB2B8C1A8AC1FD00B97CA8 /* gijon.jpg */; };
+		D0CB2B8F1A8AC60600B97CA8 /* einstein.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = D0CB2B8E1A8AC60600B97CA8 /* einstein.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +38,8 @@
 		D0CB2B7C1A8ABF8500B97CA8 /* noapp-desktopImageTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "noapp-desktopImageTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D0CB2B811A8ABF8500B97CA8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D0CB2B821A8ABF8500B97CA8 /* noapp_desktopImageTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = noapp_desktopImageTests.swift; sourceTree = "<group>"; };
+		D0CB2B8C1A8AC1FD00B97CA8 /* gijon.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = gijon.jpg; sourceTree = "<group>"; };
+		D0CB2B8E1A8AC60600B97CA8 /* einstein.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = einstein.jpeg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +94,8 @@
 		D0CB2B6A1A8ABF8500B97CA8 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				D0CB2B8E1A8AC60600B97CA8 /* einstein.jpeg */,
+				D0CB2B8C1A8AC1FD00B97CA8 /* gijon.jpg */,
 				D0CB2B6B1A8ABF8500B97CA8 /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -195,6 +201,8 @@
 				D0CB2B721A8ABF8500B97CA8 /* Main.storyboard in Resources */,
 				D0CB2B771A8ABF8500B97CA8 /* LaunchScreen.xib in Resources */,
 				D0CB2B741A8ABF8500B97CA8 /* Images.xcassets in Resources */,
+				D0CB2B8D1A8AC1FD00B97CA8 /* gijon.jpg in Resources */,
+				D0CB2B8F1A8AC60600B97CA8 /* einstein.jpeg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
