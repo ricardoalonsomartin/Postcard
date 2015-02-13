@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>039577E2-6976-4A39-821F-302CCE752292</string>
+	<key>IDESourceControlProjectName</key>
+	<string>noapp-desktopImage</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>78FE9F7F85C21FD6E704A183BBB320D13D25A94B</key>
+		<string>https://github.com/ricardoalonsomartin/Postcard.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>noapp-desktopImage.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>78FE9F7F85C21FD6E704A183BBB320D13D25A94B</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/ricardoalonsomartin/Postcard.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>78FE9F7F85C21FD6E704A183BBB320D13D25A94B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>78FE9F7F85C21FD6E704A183BBB320D13D25A94B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>noapp-desktopImage</string>
+		</dict>
+	</array>
+</dict>
+</plist>
